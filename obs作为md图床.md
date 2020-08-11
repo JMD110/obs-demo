@@ -11,7 +11,7 @@
 
 4. 上传对象并修改对象ACL使其成为公共可读的对象
 ![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md4.PNG)
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md5.PNG)
+![image](http://md-pic.obs.cn-north-4.myhuaweicloud.com/md5.PNG)
 
 
 5. 在markdown中使用比如我现在这样,在browser+中复制链接使用`![image](https://复制的链接)`
