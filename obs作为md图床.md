@@ -5,19 +5,19 @@
 ### 2. 下载obs browser+ [下载](https://support.huaweicloud.com/browsertg-obs/obs_03_1003.html)
 
 ### 3. 登录browser+创建一个公共读的桶
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md1.PNG)
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md3.PNG)
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md2.PNG)
+![image](./md1.PNG)
+![image](./md3.PNG)
+![image](./md2.PNG)
 
 ### 4. 上传对象并修改对象ACL使其成为公共可读的对象
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md4.PNG)
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md5.PNG)
+![image](./md4.PNG)
+![image](./md5.PNG)
 
 ### 5. 修改对象元数据Content-type: image/png
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md8.PNG)
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md7.PNG)
+![image](./md8.PNG)
+![image](./md7.PNG)
 
 
 ### 6. 在markdown中使用比如我现在这样,在browser+中复制链接使用`![image](https://复制的链接)`
 
-![image](https://md-pic.obs.cn-north-4.myhuaweicloud.com/md6.PNG)
+![image](./md6.PNG)
